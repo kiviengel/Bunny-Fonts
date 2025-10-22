@@ -1,6 +1,11 @@
-# Bunny-Fonts
-A font collection for Bunny
+# nasin-nanpa
+sitelen pi sitelen pona li tawa ilo Kepu
+Sitelen pona fonts for Keppu.
 
+## WHAT?!
+mtrying to get ts working first this is all wip
+planning to merge these with the toki pona glyhs
+uhh peace
 ## Fonts list:
 
 ### Poppins Light
